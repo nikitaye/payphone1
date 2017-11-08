@@ -1,0 +1,34 @@
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\bin\Debug\payphone.exe.config
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\bin\Debug\payphone.exe
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\bin\Debug\payphone.pdb
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.exe
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.pdb
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.Wallet.resources
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.SpeachCall.resources
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\Interop.MediaPlayer.dll
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\Interop.WMPDXMLib.dll
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\Interop.WMPLauncher.dll
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\Interop.WMPLib.dll
+c:\users\user\documents\visual studio 2015\Projects\payphone\payphone\obj\Debug\payphone.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\payphone\payphone\obj\Debug\payphone.ATC.resources
+C:\Users\user\documents\visual studio 2015\Projects\PAYPHONE\payphone\obj\Debug\payphone.Payphone.resources
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\bin\Debug\payphone.exe.config
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\Interop.WMPLib.dll
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.csproj.ResolveComReference.cache
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.exe
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.pdb
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.csprojResolveAssemblyReference.cache
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.ATC.resources
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.Payphone.resources
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.Properties.Resources.resources
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.SpeachCall.resources
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.Wallet.resources
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\obj\Debug\payphone.csproj.GenerateResource.Cache
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\bin\Debug\payphone.exe
+C:\Users\zao.CCD.000\Desktop\payphone\payphone\bin\Debug\payphone.pdb
